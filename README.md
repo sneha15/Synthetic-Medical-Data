@@ -8,7 +8,7 @@ It includes demographic analysis, queue modeling, doctor-patient assignment, and
 Click the button below to open and run the full analysis in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/sneha15/Synthetic-Medical-Data/blob/main/clinic_data_simulation.ipynb)
+https://colab.research.google.com/drive/1oYvh9tKfmZeA77SffkFiDPMnGTsivl5k?usp=sharing)
 
 ## 📁 Repository Structure
 
