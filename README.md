@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1oYvh9tKfmZeA77SffkFiDPMnGTsivl5k?usp=sh
 
 ## 📁 Repository Structure
 
-- `clinic_data_simulation.ipynb`: Main analysis notebook
+- `clinic_data_simulation.ipynb`: Main analysis notebook (to view plots, click on Colab link above)
 - `clinic_data_simulation.html`: Converted html file
 - `patient_data_flow.csv`: Synthetic patient flow and demographic data
 
