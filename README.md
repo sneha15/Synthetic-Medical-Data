@@ -206,7 +206,7 @@ Patients proceed through the following stages:
 ## 🔗 Additional Links
 
 - 🔍 **Notebook (GitHub)**: [clinic_data_simulation.ipynb](https://github.com/sneha15/Synthetic-Medical-Data/blob/main/clinic_data_simulation.ipynb)
-- 🌐 **CSV File (Github)**: [View on nbviewer](https://github.com/sneha15/Synthetic-Medical-Data/blob/main/patient_flow_data.csv)
+- 🌐 **CSV File (Github)**: [patient_flow_data.csv](https://github.com/sneha15/Synthetic-Medical-Data/blob/main/patient_flow_data.csv)
 - 📄 **HTML Export (GitHub Pages)**: [View on GitHub Pages](https://sneha15.github.io/Synthetic-Medical-Data/clinic_data_simulation.html)
 
 ---
