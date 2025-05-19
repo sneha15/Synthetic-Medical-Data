@@ -1,7 +1,7 @@
 # Synthetic Medical Data Simulation
 
 This project simulates patient flow in a synthetic medical setting using Python and Plotly.  
-It includes demographic analysis, queue modeling, doctor-patient assignment, and diagnostic testing stages.
+It includes demographic analysis, patient flow patterns, queue modeling, doctor-patient assignment, and diagnostic testing stages.
 
 ## 📊 Interactive Notebook
 
@@ -13,5 +13,5 @@ https://colab.research.google.com/drive/1oYvh9tKfmZeA77SffkFiDPMnGTsivl5k?usp=sh
 ## 📁 Repository Structure
 
 - `clinic_data_simulation.ipynb`: Main analysis notebook
-- `data/`: Input synthetic patient data
-- `images/`: Optional exported charts (for README or reports)
+- `clinic_data_simulation.html`: Converted html file
+- `patient_data_flow.csv`: Synthetic patient flow and demographic data
